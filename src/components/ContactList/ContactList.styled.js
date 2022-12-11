@@ -1,10 +1,7 @@
 import styled from "@emotion/styled";
 
 export const Contacts = styled.ul`
-padding: 128px 70px 30px 450px;
-/* top: 128px;
-left: 450px; */
-/* width: 42%; */
+padding: 60px 70px 30px 450px;
 font-family: 'Indie Flower', cursive;
 font-size: 22px;
 line-height: 31px;

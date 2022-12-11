@@ -2,7 +2,7 @@ import styled from "@emotion/styled";
 
 export const FilterEl = styled.div`
     position: absolute;
-    top: 40px;
+    top: 100px;
     left: 450px;
     width: 42%;
 
